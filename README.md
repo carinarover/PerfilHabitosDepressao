@@ -8,8 +8,11 @@ O transtorno depressivo representa um grande problema de saúde pública e é ap
 Para garantir um estilo de vida saudável, a OMS recomenda a prática regular de exercícios, bem como a adoção de uma dieta saudável rica em alimentos in natura e com reduzido teor de gordura saturada, sal e açúcares refinados.
 
 Neste desafio, utilizaremos dados de uma pesquisa realizada anualmente nos Estados Unidos para avaliar:
+
  (1) qual o perfil de indivíduos (adultos maiores de 18 anos) com sintomas depressivos nos EUA no período de 2005-2006, e 
+ 
  (2) se hábitos saudáveis de alimentação e atividade física estão associados a menores índices de depressão nesta população.
+ 
 
 ## National Health and Nutrition Examination Survey
 O National Health and Nutrition Examination Survey (NHANES) é uma pesquisa anual conduzida pelo National Center for Health Statistics (NCHS) do Centro de Controle e Prevenção de Doenças (Centers for Disease Control - CDC) para avaliar a saúde e nutrição de adultos e crianças dos Estados Unidos. Dados coletados incluem questões demográficas, socioeconômicas, dietéticas e relacionadas à saúde, com o componente de exame contendo medidas médicas, odontológicas, fisiológicas e exames laboratoriais.
