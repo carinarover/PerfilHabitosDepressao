@@ -1,7 +1,7 @@
 # PerfilHabitosDepressao
 Desafio realizado no curso de Data Science &amp; Machine Learning da TERA, com o objetivo de utilizar inferência estatística para conhecer o perfil de adultos com depressão.  
 
-#Depressão e Hábitos Saudáveis
+## Depressão e Hábitos Saudáveis
 
 O transtorno depressivo representa um grande problema de saúde pública e é apontado como uma das principais causas de doenças e debilitações segundo a Organização Mundial da Saúde (OMS). A depressão resulta de uma interação complexa de fatores sociais, psicológicos e biológicos e, embora o acesso a diagnósticos e tratamentos esteja aumentando, muitos ainda não possuem acesso ao controle adequado dos sintomas depressivos.
 
